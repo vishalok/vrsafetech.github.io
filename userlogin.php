@@ -2,16 +2,16 @@
 <html>
 <head><title>user login and signup </title>
 <link rel="stylesheet" type="text/css"
-href="style.css">
+href="css/style.css">
 <link rel="stylesheet" type="text/css"
 href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css"
-href="slidebar.css">
+href="css/slidebar.css">
 
 </head>
 <body  style="color:#fff";>
 <span style="font-size:30px;cursor:pointer;color:#fff" onclick="openNav()">&#9776; Home</span>
-<br><img src="logo.jpg" width="80px" height="70px">
+<br><img src="images/logo.jpg" width="80px" height="70px">
 
 <div  class="container">
 <div class="login-box">

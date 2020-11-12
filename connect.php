@@ -77,7 +77,7 @@ $conn->close();
 <center>
 <div class="container">
   
- <li> <button ><a href="wdv.html" class="btn">Back to Home Page</a></button></li>
+ <li> <button ><a href="index.html" class="btn">Back to Home Page</a></button></li>
 </div>
  
 </center>
